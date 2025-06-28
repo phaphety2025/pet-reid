@@ -1,0 +1,9 @@
+torch
+torchvision
+fastai
+gradio
+numpy
+matplotlib
+scikit-learn
+Pillow
+huggingface_hub
